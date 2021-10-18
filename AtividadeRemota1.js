@@ -25,8 +25,8 @@ let exit = false, exit2 = false, exit3 = false, exit4 = false;
 let peca, peca1, peca2, peca3, peca4, peca5, peca6, peca7, peca8, listadepecas = [];
 
 peca = {
-    nome: "Pistão",
-    peso: "350",
+    nome: undefined,
+    peso: undefined,
 }
 
 peca1 = {
